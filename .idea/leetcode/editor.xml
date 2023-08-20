@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[180]连续出现的数字.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[180]连续出现的数字.java" />
+              <option name="questionId" value="180" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[5]最长回文子串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[5]最长回文子串.java" />
+              <option name="questionId" value="5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[7]整数反转.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[7]整数反转.java" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[9]回文数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[9]回文数.java" />
+              <option name="questionId" value="9" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/en/[7]Reverse Integer.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/en/[7]Reverse Integer.java" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

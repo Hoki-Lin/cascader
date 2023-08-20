@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58273c8a-eef9-4ca2-ab4a-ff1ac193ead1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-927264278">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.138" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="java" value="61" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="61" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5391" />
+          <entry key="xml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5391" />
+          <entry key="XML" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="852501638">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.113" value="1" />
+          <entry key="project.open.time.134" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.open.time.87" value="2" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.97" value="1" />
+          <entry key="project.opened" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="java" value="70" />
+          <entry key="lua" value="1" />
+          <entry key="pom" value="1" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="70" />
+          <entry key="XML" value="5" />
+          <entry key="lua" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6818" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6818" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1388012452">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/util/CascaderUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/util/ModifierUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/enums/Pay_PLATFORM_TYPE.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/entity/CascaderNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compare</find>
+      <find>offer(</find>
+      <find>lombok</find>
+      <find>copyOf</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="F:/ideaProject/runabletest" value="PREVIEW" />
+        <entry key="F:/new/order-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-framework" value="PREVIEW" />
+        <entry key="I:/workProject/jijian" value="PREVIEW" />
+        <entry key="I:/workProject/jijian/.dep" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/_151_颠倒字符串中的单词.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/Main02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/MinNumberFromArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/FooBar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/H2O.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/JiaotiOutput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/OutputInTurn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/FizzBuzz01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/OutputInTurn01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/BoundedBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/_3_无重复字符的最长子串.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/_1_两数之和.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/_2_两数相加.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/TokenBucketLimiter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/BloomFilterDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/ConsistenceHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/TreeMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/ConsistentHashingWithVirtualNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/ConsistentHashingWithoutVirtualNode.java" />
+        <option value="$PROJECT_DIR$/../leetcode-algo/leetcode/editor/en/[7]Reverse Integer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/_7_整数反转.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/CacheLinePadding.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algo/_001_输出二进制.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algo/_002_奇数排到偶数前.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algo/_003_逆置.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leet/LeetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/base/LNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/solution/_1_1_如何实现链表的逆序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/util/FileUploader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/ZhhtCascaderHelperService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/DeptEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/CascaderHelperService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/pom" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/CascaderUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/CascaderNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/Pay_PLATFORM_TYPE.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/CascaderUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/test/ModifierUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/entity/CascaderNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/enums/Pay_PLATFORM_TYPE.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/util/CascaderUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoki/util/ModifierUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../Maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="H:\MyJavaEE\Maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="409" />
+    <option name="y" value="47" />
+    <option name="width" value="1382" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hoki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hoki" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hoki" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cascader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hoki" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowFlutter Outline.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1692550187829" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="StringManipulation" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hoki.test" />
+      <recent name="leetcode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CascaderUtil">
+    <configuration name="CascaderUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoki.util.CascaderUtil" />
+      <module name="cascader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoki.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CascaderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoki.test.CascaderUtils" />
+      <module name="cascader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoki.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leet.LeetTest" />
+      <module name="cascader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifierUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoki.util.ModifierUtil" />
+      <module name="cascader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoki.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_003_逆置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo._003_逆置" />
+      <module name="cascader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1_1_如何实现链表的逆序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hoki.solution._1_1_如何实现链表的逆序" />
+      <module name="cascader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoki.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="cascader" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="cascader" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LeetTest" />
+      <item itemvalue="Application._003_逆置" />
+      <item itemvalue="Application._1_1_如何实现链表的逆序" />
+      <item itemvalue="Application.CascaderUtils" />
+      <item itemvalue="Application.ModifierUtil" />
+      <item itemvalue="Application.CascaderUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CascaderUtil" />
+        <item itemvalue="Application.ModifierUtil" />
+        <item itemvalue="Application.CascaderUtils" />
+        <item itemvalue="Application._1_1_如何实现链表的逆序" />
+        <item itemvalue="Application._003_逆置" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lhq\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58273c8a-eef9-4ca2-ab4a-ff1ac193ead1" name="Default Changelist" comment="" />
+      <created>1656066849809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656066849809</updated>
+      <workItem from="1656066856747" duration="11374000" />
+      <workItem from="1656392272235" duration="24331000" />
+      <workItem from="1658772856316" duration="5297000" />
+      <workItem from="1658866901399" duration="25607000" />
+      <workItem from="1660087995930" duration="1554000" />
+      <workItem from="1660238527489" duration="7465000" />
+      <workItem from="1661609613143" duration="4276000" />
+      <workItem from="1661622141250" duration="1863000" />
+      <workItem from="1661624092351" duration="773000" />
+      <workItem from="1661625609053" duration="118000" />
+      <workItem from="1663045466921" duration="3669000" />
+      <workItem from="1664703524817" duration="6262000" />
+      <workItem from="1667728767851" duration="2685000" />
+      <workItem from="1668236042476" duration="118000" />
+      <workItem from="1668236269954" duration="208000" />
+      <workItem from="1676027738313" duration="1203000" />
+      <workItem from="1676294425320" duration="212000" />
+      <workItem from="1676655420684" duration="1290000" />
+      <workItem from="1676884365081" duration="3558000" />
+      <workItem from="1677749232838" duration="1842000" />
+      <workItem from="1678901921275" duration="18000" />
+      <workItem from="1681159016086" duration="2560000" />
+      <workItem from="1682325709563" duration="5156000" />
+      <workItem from="1684472896277" duration="5661000" />
+      <workItem from="1684550202143" duration="166000" />
+      <workItem from="1685070691814" duration="4652000" />
+      <workItem from="1686444503507" duration="4565000" />
+      <workItem from="1691302411291" duration="12288000" />
+      <workItem from="1692545303820" duration="3983000" />
+      <workItem from="1692549443509" duration="1340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="144094000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.23934427" visible="true" weight="0.22617246" />
+      <window_info id="Structure" order="1" sideWeight="0.76065576" side_tool="true" weight="0.20196672" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32980332" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27213115" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45737705" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flutter Performance" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="LuaCheck" order="15" />
+      <window_info anchor="bottom" id="GenProtobuf" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="leetcode" order="1" weight="0.30257186" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Codota" order="5" show_stripe_button="false" weight="0.32980332" />
+      <window_info anchor="right" auto_hide="true" id="Flutter Inspector" order="6" show_stripe_button="false" type="SLIDING" />
+      <window_info anchor="right" x="547" y="186" width="272" height="355" id="Flutter Outline" order="7" show_stripe_button="false" type="FLOATING" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="ASM" order="10" weight="0.46596065" />
+      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="13" />
+      <window_info anchor="right" id="BPMNPalette" order="14" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.23934427" visible="true" weight="0.22617246" />
+      <window_info id="Structure" order="1" sideWeight="0.76065576" side_tool="true" weight="0.20196672" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32980332" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27213115" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45737705" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flutter Performance" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="LuaCheck" order="15" />
+      <window_info anchor="bottom" id="GenProtobuf" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="leetcode" order="1" weight="0.30257186" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Codota" order="5" show_stripe_button="false" weight="0.32980332" />
+      <window_info anchor="right" auto_hide="true" id="Flutter Inspector" order="6" show_stripe_button="false" type="SLIDING" />
+      <window_info anchor="right" x="547" y="186" width="272" height="355" id="Flutter Outline" order="7" show_stripe_button="false" type="FLOATING" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="ASM" order="10" weight="0.46596065" />
+      <window_info anchor="right" id="Database" order="11" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="13" />
+      <window_info anchor="right" id="BPMNPalette" order="14" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hoki/solution/_1_1_如何实现链表的逆序.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>left + n - i - 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_151_颠倒字符串中的单词.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_3_无重复字符的最长子串.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_2_两数相加.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar!/com/google/common/util/concurrent/SmoothRateLimiter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="66" column="50" lean-forward="true" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar!/com/google/common/util/concurrent/RateLimiter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="1362" column="39" lean-forward="true" selection-start-line="1362" selection-start-column="39" selection-end-line="1362" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/ConsistenceHash.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[180]连续出现的数字.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[5]最长回文子串.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[9]回文数.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode-algo/leetcode/editor/cn/[7]整数反转.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode-algo/leetcode/editor/en/[7]Reverse Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="39" column="66" lean-forward="true" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_1_两数之和.java" />
+    <entry file="jar://D:/java/JDK/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="62" column="60" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_7_整数反转.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/juc/H2O.java" />
+    <entry file="jar://D:/java/JDK/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="332" column="28" lean-forward="true" selection-start-line="332" selection-start-column="28" selection-end-line="332" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algo/_002_奇数排到偶数前.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/algo/_003_逆置.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/algo/_001_输出二进制.java" />
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/intellij-emmylua/lib/intellij-emmylua-1.3.3.150-IDEA182.jar!/std/Lua53/string.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#78240#78241#0" expanded="true" />
+            <element signature="e#78299#78300#0" expanded="true" />
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+            <element signature="e#104675#104676#0" expanded="true" />
+            <element signature="e#104730#104731#0" expanded="true" />
+            <element signature="e#111196#111197#0" expanded="true" />
+            <element signature="e#111251#111252#0" expanded="true" />
+            <element signature="e#120482#120483#0" expanded="true" />
+            <element signature="e#120521#120522#0" expanded="true" />
+            <element signature="e#120889#120890#0" expanded="true" />
+            <element signature="e#120932#120933#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leet/LeetTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/BloomFilterDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/CacheLinePadding.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/TokenBucketLimiter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/TreeMapDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/ConsistentHashingWithVirtualNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/ConsistentHashingWithoutVirtualNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/juc/BoundedBlockingQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/solution/_1_1_如何实现链表的逆序.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/test/pom" />
+    <entry file="jar://D:/java/JDK/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="64" column="24" lean-forward="true" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-all/5.8.20/hutool-all-5.8.20.jar!/cn/hutool/core/util/ReflectUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="207" column="17" selection-start-line="207" selection-start-column="12" selection-end-line="207" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/lang/reflect/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1801">
+          <caret line="109" column="69" lean-forward="true" selection-start-line="109" selection-start-column="69" selection-end-line="109" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="351" column="41" selection-start-line="351" selection-start-column="35" selection-end-line="351" selection-end-column="41" />
+          <folding>
+            <element signature="e#13541#13542#0" expanded="true" />
+            <element signature="e#13596#13597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="3211" column="62" selection-start-line="3211" selection-start-column="46" selection-end-line="3211" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/test/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/base/LNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/util/FileUploader.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/entity/CascaderNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/enums/Pay_PLATFORM_TYPE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/util/CascaderUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoki/util/ModifierUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
